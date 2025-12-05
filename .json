@@ -1,0 +1,17 @@
+{
+    "name": "sgga",
+    "version": "1.0.0",
+    "description": "Sistema de Gestión General Administrativo desarrollado en PHP con soporte JS y estilos usando Bootstrap.",
+    "author": "Tania Vasquez, Tatiana Nolasco, Alison Amaya",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "dev": "echo \"No hay herramientas de compilación.\"",
+        "install-deps": "npm install"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "jquery": "^3.7.1",
+        "popper.js": "^1.16.1"
+    }
+}
